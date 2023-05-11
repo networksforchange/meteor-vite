@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'vite:bundler',
+  name: 'networksforchange:vite-bundler',
   version: '0.1.10',
   summary: 'Integrate the Vite.js bundler with Meteor',
   git: 'https://github.com/networksforchange/meteor-vite',
